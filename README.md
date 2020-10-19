@@ -1,4 +1,4 @@
-# Motorcycle Information display
+# Motorcycle information display
 Arduino-based Motorcycle Information Display
 
 This is and Arduino Nano based system, intented for older motorcycles.
